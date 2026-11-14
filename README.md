@@ -1,6 +1,4 @@
-# Satyamraj07
-Profile
-[README (2).md](https://github.com/user-attachments/files/34857174/README.2.md)
+[README sr.md](https://github.com/user-attachments/files/34857199/README.sr.md)
 # 👋 Hey, I'm Satyam Rajput!
 
 ### 🎓 M.Sc. Computer Science Student | Python Developer | Exploring AI & Data Science
